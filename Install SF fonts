@@ -7,4 +7,3 @@ sudo cp -r 'SFFonts/SF Compact' /usr/share/fonts/
 sudo cp -r 'SFFonts/SF Pro' /usr/share/fonts/
 sudo cp -r 'SFFonts/SF Monospace' /usr/share/fonts/
 sudo rm -rf SFFonts
-

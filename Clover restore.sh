@@ -14,4 +14,3 @@ sudo umount /efimount
 sudo rm -rf /efimount
 sudo echo "Clover folder replaced successfully! Should work fine now."
 exit
-

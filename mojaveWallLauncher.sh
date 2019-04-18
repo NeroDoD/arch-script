@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Runs 'mojaveWallpaperEmulator.py' located in '/Users/Diego/Mojave Wallpaper'
+#Runs 'mojaveWallpaperEmulator.py' located in '~/Mojave Wallpaper'
 
-cd '/Users/Diego/Mojave Wallpaper'
-python3 mojaveWallpaperEmulator.py
+cd ~
+python3 'Mojave Wallpaper/mojaveWallpaperEmulator.py'

@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 read -n 1 -s -r -p "Formatear el disco duro? (s/n):"
 echo

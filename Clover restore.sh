@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 echo "Mounting EFI partition to /efimount"
 echo "Please enter your root password:"

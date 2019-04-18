@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 echo "Mounting EFI partition to /Volumes/EFI"
 echo "Program must execute as root"

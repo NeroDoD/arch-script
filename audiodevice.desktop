@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=setDisplayportAsDefaultAudioOutput
+Exec=pactl set-default-sink 'alsa_output.pci-0000_01_00.1.hdmi-stereo-extra1'
+Type=Application
+X-GNOME-Autostart-enabled=true
